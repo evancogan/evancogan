@@ -1,3 +1,5 @@
+<table align="center"><tr><td>
+
 ```
          o           o     o           o
          │     o     │     │     o     │
@@ -20,6 +22,8 @@ o──╢              CS @ SYRACUSE              ╟──o
          │     o     │     │     o     │
          o           o     o           o
 ```
+
+</td></tr></table>
 
 
 # Hi, I'm Evan
