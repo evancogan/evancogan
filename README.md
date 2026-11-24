@@ -26,7 +26,7 @@ o──╢              CS @ SYRACUSE              ╟──o
 </td></tr></table>
 
 
-# Hi, I'm Evan
+# It's me! Evan!
 
 Second-year CS student at Syracuse University. I like hard, specific problems: making code run fast on my GPU, reverse-engineering a game enough to mod it, and building tools I wish existed.
 
