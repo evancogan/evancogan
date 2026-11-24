@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.gif" width="900" alt="Evan Cogan"></p>
+<p align="center"><img src="evan-banner.gif" width="900" alt="Evan Cogan"></p>
 
 
 # It's me! Evan!
