@@ -24,3 +24,5 @@ if you're interested in working with me, it would be my pleasure to work and gro
 ## How I work
 
 I typically start with an idea, translate that into a flowchart or pseudocode, nail down dependencies, and then iterate. I use AI agents on some projects, and I say so in those READMEs. I prefer to use AI under strict scrutiny, leveraging robust CI/CD and TDD to ensure the code it writes is on spec. I write down what I learn in each project's README, including what didn't work.
+
+[![storefront-demo CI](https://github.com/evancogan/storefront-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/evancogan/storefront-demo/actions/workflows/ci.yml)
