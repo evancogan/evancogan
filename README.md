@@ -3,7 +3,7 @@
 
 # It's me! Evan!
 
-Second-year CS student at Syracuse University. 
+Third-Year CS student at Syracuse University. 
 CS is my passion, and I'm excited to learn!
 
 I highly encourage you to email me at
