@@ -1,9 +1,8 @@
 <p align="center"><img src="evan-banner-life.gif" width="900" alt="Evan Cogan"></p>
 
-
 # It's me! Evan!
 
-Third-Year CS student at Syracuse University. 
+Third-Year CS student at Syracuse University.
 CS is my passion, and I'm excited to learn!
 
 I highly encourage you to email me at
@@ -14,12 +13,13 @@ evan.cogan@gmail.com
 
 if you're interested in working with me, it would be my pleasure to work and grow alongside you.
 
-
 ## What I work with
 
 **Strongest with:** Python, JavaScript/TypeScript, C#, Linux, Java
 
 **Particularly enjoy:** CUDA, MySQL, C++, Kotlin
+
+![Skills](https://skillicons.dev/icons?i=py,ts,js,cs,java,linux,cpp,kotlin,mysql) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## How I work
 
@@ -27,8 +27,17 @@ I typically start with an idea, translate that into a flowchart or pseudocode, n
 
 [![storefront-demo CI](https://github.com/evancogan/storefront-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/evancogan/storefront-demo/actions/workflows/ci.yml)
 
-## Hand Coding (No AI)
+## Hand coding (no AI)
 
-I attest that none of the leetcode problems here are solved with the assistance of generative AI, and encourage reviewers to press me on these questions.
+I attest that none of the LeetCode problems here were solved with the help of generative AI, and I encourage reviewers to press me on them.
 
-![LeetCode stats](https://leetcard.jacoblin.cool/evancogan)
+[![LeetCode stats](https://leetcard.jacoblin.cool/evancogan?theme=dark)](https://leetcode.com/u/evancogan/)
+
+## Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=evancogan&show_icons=true&theme=dark" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evancogan&layout=compact&theme=dark" alt="Top languages" height="165">
+</p>
+
+![Streak](https://streak-stats.demolab.com?user=evancogan&theme=dark)
