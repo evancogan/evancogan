@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Evan
 
-<!--
-**evancogan/evancogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year CS student at Syracuse University. I like hard, specific problems: making code run fast on my GPU, reverse-engineering a game enough to mod it, and building tools I wish existed.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Strongest with:** Python, JavaScript/TypeScript, C#, Linux, Java
+
+**Particularly enjoy:** CUDA, MySQL, C++, Kotlin
+
+## How I work
+
+I typically start with an idea, translate that into a flowchart or pseudocode, nail down dependencies, and then iterate. I use AI agents on some projects, and I say so in those READMEs. I prefer to use AI under strict scrutiny, leveraging robust CI/CD and TDD to ensure the code it writes is on spec. I write down what I learn in each project's README, including what didn't work.
