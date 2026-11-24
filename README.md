@@ -17,9 +17,11 @@ if you're interested in working with me, it would be my pleasure to work and gro
 
 **Strongest with:** Python, JavaScript/TypeScript, C#, Linux, Java
 
+![Strongest with](https://skillicons.dev/icons?i=py,js,ts,cs,linux,java)
+
 **Particularly enjoy:** CUDA, MySQL, C++, Kotlin
 
-![Skills](https://skillicons.dev/icons?i=py,ts,js,cs,java,linux,cpp,kotlin,mysql) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Particularly enjoy](https://skillicons.dev/icons?i=mysql,cpp,kotlin) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## How I work
 
