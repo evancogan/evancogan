@@ -1,3 +1,21 @@
+```
+╔═════════════════════════════════════════╗
+║                                         ║
+║   ███████╗██╗   ██╗ █████╗ ███╗   ██╗   ║
+║   ██╔════╝██║   ██║██╔══██╗████╗  ██║   ║
+║   █████╗  ██║   ██║███████║██╔██╗ ██║   ║
+║   ██╔══╝  ╚██╗ ██╔╝██╔══██║██║╚██╗██║   ║
+║   ███████╗ ╚████╔╝ ██║  ██║██║ ╚████║   ║
+║   ╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝   ║
+║                                         ║
+║──────────────  C O G A N  ──────────────║
+║                                         ║
+║          DO NOT DEVELOP MY APP          ║
+║              CS @ SYRACUSE              ║
+╚═════════════════════════════════════════╝
+```
+
+
 # Hi, I'm Evan
 
 Second-year CS student at Syracuse University. I like hard, specific problems: making code run fast on my GPU, reverse-engineering a game enough to mod it, and building tools I wish existed.
