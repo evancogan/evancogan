@@ -3,7 +3,17 @@
 
 # It's me! Evan!
 
-Second-year CS student at Syracuse University. I like hard, specific problems: making code run fast on my GPU, reverse-engineering a game enough to mod it, and building tools I wish existed.
+Second-year CS student at Syracuse University. 
+CS is my passion, and I'm excited to learn!
+
+I highly encourage you to email me at
+
+```
+evan.cogan@gmail.com
+```
+
+if you're interested in working with me, it would be my pleasure to work and grow alongside you.
+
 
 ## What I work with
 
