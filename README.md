@@ -29,13 +29,12 @@ I typically start with an idea, translate that into a flowchart or pseudocode, n
 
 [![storefront-demo CI](https://github.com/evancogan/storefront-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/evancogan/storefront-demo/actions/workflows/ci.yml)
 
-## Hand coding (no AI)
 
-I attest that none of the LeetCode problems here were solved with the help of generative AI, and I encourage reviewers to press me on them.
 
-[![LeetCode stats](https://leetcard.jacoblin.cool/evancogan?theme=dark)](https://leetcode.com/u/evancogan/)
 
 ## Stats
+
+[![LeetCode stats](https://leetcard.jacoblin.cool/evancogan?theme=dark)](https://leetcode.com/u/evancogan/)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=evancogan&show_icons=true&theme=dark" alt="GitHub stats" height="165">
